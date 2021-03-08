@@ -23,5 +23,6 @@
 
 
 
-![Asset 2@3x](https://user-images.githubusercontent.com/43462511/110366703-a1f7b980-8014-11eb-8c52-affb6ade85d9.png)
+![Asset 2@3x](https://user-images.githubusercontent.com/43462511/110370689-ffdad000-8019-11eb-95f9-6ede1c6fec20.png)
+
 
