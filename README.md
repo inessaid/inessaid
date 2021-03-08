@@ -3,18 +3,16 @@
 
 ### Hi there 👋
 
-<!--
-**inessaid/inessaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on HoloKeys and Animator VR.
+- 🌱 I’m currently learning Arduino IDE.
+- 👯 I’m looking to collaborate on VR/AR projects.
+- 💬 Ask me about developing VR/AR applications in Unity.
+- 📫 How to reach me: inessaid@ufl.edu
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a certified SCUBA diver.
 -->
+
+![Asset 2@3x](https://user-images.githubusercontent.com/43462511/110366703-a1f7b980-8014-11eb-8c52-affb6ade85d9.png)
 
