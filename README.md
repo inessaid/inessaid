@@ -33,9 +33,7 @@
 [![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
 -->
 
-### Master's in Digital Arts and Sciences
-[![Scoot](https://img.shields.io/badge/%F0%9F%9B%B5%20Scoot%20-ffd5cd)](https://github.com/jordansmithsgames/Scoot)
-[![VSP](https://img.shields.io/badge/💬%20VSP%20-ffd5cd)](https://github.com/jordansmithsgames/VSP)
+
 
 ### Hackathon Winners
 [![Fresh Match](https://img.shields.io/badge/🍀%20Fresh%20Match%20-8675a9)](https://github.com/inessaid/Fresh-Match-Hackatown)
@@ -45,6 +43,12 @@
 [![Monet's Garden](https://img.shields.io/badge/🌼%20Monet's%20Garden%20-8675a9)](https://github.com/inessaid/Monetgarden)
 [![Keep It Green](https://img.shields.io/badge/♻️%20Keep%20It%20Green%20-8675a9)](https://github.com/inessaid/Keep-It-Green)
 [![Techincatomy](https://img.shields.io/badge/🧠%20Learn%20Anatomy%20-8675a9)](https://github.com/inessaid/TechnicaVR)
+
+### Master's in Digital Arts and Sciences
+[![Scoot](https://img.shields.io/badge/%F0%9F%9B%B5%20Scoot%20-ffd5cd)](https://github.com/jordansmithsgames/Scoot)
+[![VSP](https://img.shields.io/badge/💬%20VSP%20-ffd5cd)](https://github.com/jordansmithsgames/VSP)
+[![Holokeys](https://img.shields.io/badge/🎹%20HoloKeys%20-ffd5cd)](https://github.com/jordansmithsgames/VSP)
+[![Pottery VR](https://img.shields.io/badge/🎨%20Pottery%20VR%20-ffd5cd)](https://github.com/jordansmithsgames/VSP)
 
 ### Let's Connect :coffee:
 <p align="center">
