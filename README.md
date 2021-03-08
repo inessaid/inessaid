@@ -42,7 +42,8 @@
 [![Trash Simulator](https://img.shields.io/badge/🥤%20Trash%20Simulator%20-8675a9)](https://github.com/jordansmithsgames/TrashSimulator)
 [![VoteR](https://img.shields.io/badge/📮%20VoteR%20-8675a9)](https://github.com/jordansmithsgames/VoteR)
 [![Wonder Lab](https://img.shields.io/badge/🧪%20WonderLab%20-8675a9)](https://github.com/inessaid/HackGT2020)
-[![Monet's Garden](https://img.shields.io/badge/🍀%20Monet's%20Garden%20-8675a9)](https://github.com/inessaid/Monetgarden)
+[![Monet's Garden](https://img.shields.io/badge/🌼%20Monet's%20Garden%20-8675a9)](https://github.com/inessaid/Monetgarden)
+[![Keep It Green](https://img.shields.io/badge/🍀%20Keep%20It%20Green%20-8675a9)](https://github.com/inessaid/Keep-It-Green)
 
 ### Let's Connect :coffee:
 <p align="center">
