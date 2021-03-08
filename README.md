@@ -21,7 +21,7 @@
 [![Java](https://img.icons8.com/color/50/000/java.png)](https://www.java.com/en/)
 [![Unity](https://img.icons8.com/ios-filled/50/000/unity.png)](https://www.unity.com/)
 [![Maya](https://img.icons8.com/color/50/000/autodesk-maya.png)](https://www.autodesk.com/products/maya/overview?term=1-YEAR&support=null)
-<!-- <a href="https://www.substance3d.com/products/substance-painter/"><img src="/images/SUBSTANCE_ICON.png" width="43.5" height="50" alt="Substance Painter"></a>
+
 
 
 ## Check Out My Projects
