@@ -51,7 +51,7 @@
 [![Pottery VR](https://img.shields.io/badge/🎨%20Pottery%20VR%20-ffd5cd)](https://github.com/inessaid/Virtual-Standardized-Patient)
 [![VCP](https://img.shields.io/badge/🦷%20VCP%20-ffd5cd)](https://github.com/jordansmithsgames/VCP)
 
-### Let's Connect :coffee:
+## Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/inessaid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/inessaid/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
