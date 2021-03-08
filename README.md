@@ -1,4 +1,5 @@
-![COVER](https://user-images.githubusercontent.com/43462511/110365449-0f0a4f80-8013-11eb-8a5c-4cb3c12c9112.png)
+![Asset 1@3x](https://user-images.githubusercontent.com/43462511/110365980-b38c9180-8013-11eb-8837-3067935da3d4.png)
+
 
 ### Hi there 👋
 
