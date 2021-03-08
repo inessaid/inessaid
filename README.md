@@ -38,17 +38,18 @@
 ### Hackathon Winners
 [![Fresh Match](https://img.shields.io/badge/🍀%20Fresh%20Match%20-8675a9)](https://github.com/inessaid/Fresh-Match-Hackatown)
 [![Trash Simulator](https://img.shields.io/badge/🥤%20Trash%20Simulator%20-8675a9)](https://github.com/jordansmithsgames/TrashSimulator)
-[![VoteR](https://img.shields.io/badge/📮%20VoteR%20-8675a9)](https://github.com/jordansmithsgames/VoteR)
+[![VoteR](https://img.shields.io/badge/📮%20VoteR%20-8675a9)](https://github.com/inessaid/VoteR)
 [![Wonder Lab](https://img.shields.io/badge/🧪%20WonderLab%20-8675a9)](https://github.com/inessaid/HackGT2020)
 [![Monet's Garden](https://img.shields.io/badge/🌼%20Monet's%20Garden%20-8675a9)](https://github.com/inessaid/Monetgarden)
 [![Keep It Green](https://img.shields.io/badge/♻️%20Keep%20It%20Green%20-8675a9)](https://github.com/inessaid/Keep-It-Green)
 [![Techincatomy](https://img.shields.io/badge/🧠%20Learn%20Anatomy%20-8675a9)](https://github.com/inessaid/TechnicaVR)
 
 ### Master's in Digital Arts and Sciences
-[![Scoot](https://img.shields.io/badge/%F0%9F%9B%B5%20Scoot%20-ffd5cd)](https://github.com/jordansmithsgames/Scoot)
+[![Scoot](https://img.shields.io/badge/%F0%9F%9B%B5%20Scoot%20-ffd5cd)](https://github.com/inessaid/Scoot-VR)
 [![VSP](https://img.shields.io/badge/💬%20VSP%20-ffd5cd)](https://github.com/jordansmithsgames/VSP)
 [![Holokeys](https://img.shields.io/badge/🎹%20HoloKeys%20-ffd5cd)](https://github.com/jordansmithsgames/VSP)
 [![Pottery VR](https://img.shields.io/badge/🎨%20Pottery%20VR%20-ffd5cd)](https://github.com/jordansmithsgames/VSP)
+[![VCP](https://img.shields.io/badge/🦷%20VCP%20-ffd5cd)](https://github.com/jordansmithsgames/VCP)
 
 ### Let's Connect :coffee:
 <p align="center">
