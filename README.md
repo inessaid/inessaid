@@ -25,13 +25,7 @@
 
 
 ## Check Out My Projects
-<!--
-### For Virtuix!
-[![Virtuix](https://img.shields.io/badge/🥽%20Virtuix%20-006400)](https://github.com/jordansmithsgames/Virtuix)
-### In Progress
-[![VRobot](https://img.shields.io/badge/🤖%20VRobot%20-FF0)](https://github.com/jordansmithsgames/VRobot) 
-[![VCP](https://img.shields.io/badge/🦷%20VCP%20-FF0)](https://github.com/jordansmithsgames/VCP)
--->
+
 
 
 
@@ -45,11 +39,15 @@
 [![Techincatomy](https://img.shields.io/badge/🧠%20Learn%20Anatomy%20-8675a9)](https://github.com/inessaid/TechnicaVR)
 
 ### Master's in Digital Arts and Sciences
+
+[![VR Animator](https://img.shields.io/badge/🌟%20VR%20Animator%20-ffd5cd)](https://github.com/inessaid/Sparc-VR)
 [![Scoot](https://img.shields.io/badge/%F0%9F%9B%B5%20Scoot%20-ffd5cd)](https://github.com/inessaid/Scoot-VR)
 [![VSP](https://img.shields.io/badge/💬%20VSP%20-ffd5cd)](https://github.com/inessaid/Virtual-Standardized-Patient)
 [![Holokeys](https://img.shields.io/badge/🎹%20HoloKeys%20-ffd5cd)](https://github.com/inessaid/Virtual-Standardized-Patient)
 [![Pottery VR](https://img.shields.io/badge/🎨%20Pottery%20VR%20-ffd5cd)](https://github.com/inessaid/Virtual-Standardized-Patient)
-[![VCP](https://img.shields.io/badge/🦷%20VCP%20-ffd5cd)](https://github.com/jordansmithsgames/VCP)
+[![VCP](https://img.shields.io/badge/🦷%20VCP%20-ffd5cd)](https://github.com/inessaid/Virtual-Cavity-Protocol)
+
+
 
 ## Let's Connect :coffee:
 <p align="center">
